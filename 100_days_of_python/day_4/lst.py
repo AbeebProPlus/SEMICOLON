@@ -1,0 +1,11 @@
+lst = [1, 2, 3, 4, 5, 6]
+lst.extend([7, 8])
+print(lst)
+lst.append(9)
+print(lst)
+lst.pop()
+print(lst)
+lst.pop(4)
+print(lst)
+lst.remove(2)
+print(lst)

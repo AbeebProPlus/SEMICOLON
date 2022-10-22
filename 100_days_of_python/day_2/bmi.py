@@ -1,0 +1,1 @@
+print(float(input("weight:\n")) / (float(input("height:\n")) ** 2))
